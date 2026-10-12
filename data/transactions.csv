@@ -1,0 +1,11 @@
+customer_id,product,quantity,price
+C101,Laptop,1,50000
+C102,Mouse,2,500
+C101,Keyboard,1,1500
+C103,Monitor,2,12000
+C102,Laptop,1,50000
+C101,Mouse,3,500
+C103,Keyboard,2,1500
+C102,Monitor,1,12000
+C101,Monitor,1,12000
+C103,Laptop,1,50000

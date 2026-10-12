@@ -1,0 +1,10 @@
+# Hadoop installation and runtime data
+hadoop-3.4.2/
+hadoop-3.4.2.tar.gz
+hadoop-data/
+
+# Maven build output
+target/
+
+# Logs
+*.log
